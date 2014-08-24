@@ -1,4 +1,4 @@
-E410
+WorldSeed
 =====
 
 Copyright © 2014 John Brooks
@@ -17,5 +17,5 @@ Copyright © 2014 John Brooks
     along with this program; if not, write to the Free Software
     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
-Full source source code for this software is available at https://github.com/FastQuake/E410. 
+Full source source code for this software is available at https://github.com/Frogging101/WorldSeed 
 A copy of the GNU General Public License is included with this software in the LICENSE file.
