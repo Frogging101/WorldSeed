@@ -350,7 +350,7 @@ int l_GuisetPadding(lua_State *l){
 //Box related functions
 int l_GuiCreateBox(lua_State *l){
 	Box *b = new (lua_newuserdata(l, sizeof(Box))) Box(glm::vec2(0,0),
-			glm::ivec2(0,0),glm::vec4(0,0,0,0));
+			glm::vec2(0,0),glm::vec4(0,0,0,0));
 
 	gui->add(b);
 

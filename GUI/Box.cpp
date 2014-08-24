@@ -3,7 +3,7 @@
 using namespace std;
 
 //Generic box object
-Box::Box(glm::vec2 pos, glm::ivec2 size, glm::vec4 colour){
+Box::Box(glm::vec2 pos, glm::vec2 size, glm::vec4 colour){
 
 		this->pos = pos;
 		this->size = size;
